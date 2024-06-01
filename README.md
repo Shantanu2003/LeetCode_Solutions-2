@@ -24,3 +24,7 @@
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/3379-score-of-a-string) |
+# Database
+|  |
+| ------- |
+| [0608-tree-node](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0608-tree-node) |
