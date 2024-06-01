@@ -28,3 +28,4 @@
 |  |
 | ------- |
 | [0608-tree-node](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0608-tree-node) |
+| [0627-swap-salary](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0627-swap-salary) |
