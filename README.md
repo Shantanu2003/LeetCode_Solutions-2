@@ -23,9 +23,14 @@
 # String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0344-reverse-string) |
 | [3379-score-of-a-string](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/3379-score-of-a-string) |
 # Database
 |  |
 | ------- |
 | [0608-tree-node](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0608-tree-node) |
 | [0627-swap-salary](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0627-swap-salary) |
+# Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0344-reverse-string) |
