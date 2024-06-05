@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0344-reverse-string) |
+| [1044-find-common-characters](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1044-find-common-characters) |
 | [3379-score-of-a-string](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/3379-score-of-a-string) |
 # Database
 |  |
@@ -34,3 +35,11 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0344-reverse-string) |
+# Array
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1044-find-common-characters) |
+# Hash Table
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1044-find-common-characters) |
