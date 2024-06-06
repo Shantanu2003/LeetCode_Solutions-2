@@ -38,8 +38,14 @@
 # Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0128-longest-consecutive-sequence) |
 | [1044-find-common-characters](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0128-longest-consecutive-sequence) |
 | [1044-find-common-characters](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1044-find-common-characters) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0128-longest-consecutive-sequence) |
