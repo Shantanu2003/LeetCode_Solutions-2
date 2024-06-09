@@ -40,12 +40,14 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0128-longest-consecutive-sequence) |
 | [0876-hand-of-straights](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0128-longest-consecutive-sequence) |
 | [0876-hand-of-straights](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1044-find-common-characters) |
 # Union Find
 |  |
@@ -59,3 +61,7 @@
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0876-hand-of-straights) |
+# Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1016-subarray-sums-divisible-by-k) |
