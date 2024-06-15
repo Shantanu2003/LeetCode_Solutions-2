@@ -41,6 +41,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0128-longest-consecutive-sequence) |
+| [0502-ipo](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -64,6 +65,7 @@
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1137-height-checker) |
@@ -87,3 +90,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1217-relative-sort-array) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0502-ipo) |
