@@ -36,6 +36,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0633-sum-of-square-numbers) |
 # Array
 |  |
 | ------- |
@@ -96,3 +97,11 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0633-sum-of-square-numbers) |
