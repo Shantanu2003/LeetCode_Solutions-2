@@ -45,6 +45,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0128-longest-consecutive-sequence) |
 | [0330-patching-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0502-ipo) |
+| [0777-toeplitz-matrix](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0777-toeplitz-matrix) |
 | [0853-most-profit-assigning-work](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -172,3 +173,7 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1285-balance-a-binary-search-tree) |
+# Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0777-toeplitz-matrix) |
