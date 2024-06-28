@@ -177,3 +177,22 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0777-toeplitz-matrix) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2379-maximum-total-importance-of-roads) |
+## Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2379-maximum-total-importance-of-roads) |
+## Sorting
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics End-->
