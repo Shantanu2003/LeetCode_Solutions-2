@@ -31,7 +31,7 @@ public:
         }
 
         int maxDistance = criticalPoints.back() - criticalPoints.front();
-        int minDistance = INT_MAX;
+        int minDistance = criticalPoints.back() - criticalPoints[criticalPoints.size() - 2];
         for (int i = 1; i < criticalPoints.size(); i++) {
             minDistance = min(minDistance, criticalPoints[i] - criticalPoints[i - 1]);
         }
