@@ -1,21 +1,21 @@
 class Solution {
 public:
     int minOperations(vector<string>& logs) {
-        stack<int>st;
+        int j = 0;;
         for(string s: logs){
             if(s == "../"){
-                if(st.size() > 0)
-                st.pop();
+                if(j > 0)
+                j--;
             }            
             else if(s == "./")
             continue;
 
             else
-            st.push(1);
+            j++;
         }
 
 
 
-        return st.size();
+        return j;
     }
 };
