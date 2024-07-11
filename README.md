@@ -263,9 +263,11 @@
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
