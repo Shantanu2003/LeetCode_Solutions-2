@@ -82,7 +82,6 @@ public:
                 stk.push(id);
             } else {
                 while (!stk.empty() && healths[stk.top()] < healths[id]) {
-                    int top_id = stk.top();
                     stk.pop();
                     healths[id] -= 1;
                 }
@@ -91,18 +90,16 @@ public:
                 } else if (!stk.empty() && healths[stk.top()] > healths[id]) {
                     healths[stk.top()] -= 1; // top robot health decreases by 1
                 } else {
-                    survived_health[id] = healths[id]; // no more collisions, robot survives
+                    survived_health[id] = healths[id]; 
                 }
             }
         }
 
-        // Remaining robots in the stack survive
         while (!stk.empty()) {
             survived_health[stk.top()] = healths[stk.top()];
             stk.pop();
         }
 
-        // Collect surviving robots' healths in the original order
         vector<int> result;
         for (int i = 0; i < n; ++i) {
             if (survived_health[i] != -1) {
