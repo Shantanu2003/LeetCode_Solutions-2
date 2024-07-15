@@ -7,7 +7,7 @@ public:
             if(nums[i]<= nums[i+1]){
                 continue;
             }
-            long long nums_elements = ((nums[i] + nums[i + 1] - 1LL) / (nums[i + 1]));
+            long long nums_elements = ceil((nums[i] + nums[i + 1] - 1LL) / (nums[i + 1]));
             answer += nums_elements-1;
 
             nums[i] = nums[i]/nums_elements;
