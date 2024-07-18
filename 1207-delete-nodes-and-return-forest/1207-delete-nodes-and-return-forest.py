@@ -6,17 +6,17 @@
 #         self.right = right
 class Solution:
     def delNodes(self, root: Optional[TreeNode], to_delete: List[int]) -> List[TreeNode]:
-        s = set(to_delete)
+        #s = set(to_delete)
         forest = []
 
-        root = self.solve(root,s,forest)
+        root = self.solve(root,to_delete,forest)
 
         if(root != None):
             forest.append(root)
 
         return forest
 
-    def solve(self, root: Optional[TreeNode],s: Set[int], forest: List[TreeNode]) -> TreeNode:
+    def solve(self, root: Optional[TreeNode],s: List[int], forest: List[TreeNode]) -> TreeNode:
         if root == None:
             return None
         
