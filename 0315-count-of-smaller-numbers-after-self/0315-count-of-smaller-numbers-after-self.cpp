@@ -1,3 +1,33 @@
+class Solution {
+public:
+    int solve(vector<int>& sorted_list, int target) {
+        int left = 0;
+        int right = sorted_list.size();
+
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (sorted_list[mid] < target) {
+                left = mid + 1;
+            } else {
+                right = mid;
+            }
+        }
+        return left;
+    }
+    vector<int> countSmaller(vector<int>& arr) {
+        vector<int> sorted_list;
+        vector<int> res(arr.size());
+
+        for (int i = arr.size() - 1; i >= 0; --i) {
+            int pos = solve(sorted_list, arr[i]);
+            res[i] = pos;
+            sorted_list.insert(sorted_list.begin() + pos, arr[i]);
+        }
+
+        return res;
+    }
+};
+
 // class Solution {
 // public:
 //     void merge(vector<int>& arr, vector<int>& indices, vector<int>& count, int left, int mid, int right) {
@@ -79,22 +109,22 @@
 //     }
 // };
 
-#include <ext/pb_ds/assoc_container.hpp>
-#include <ext/pb_ds/tree_policy.hpp>
-using namespace __gnu_pbds;
-template<class T> using oset = tree<T, null_type, less_equal<T>, rb_tree_tag, tree_order_statistics_node_update>;
+// #include <ext/pb_ds/assoc_container.hpp>
+// #include <ext/pb_ds/tree_policy.hpp>
+// using namespace __gnu_pbds;
+// template<class T> using oset = tree<T, null_type, less_equal<T>, rb_tree_tag, tree_order_statistics_node_update>;
 
-class Solution {
-public:
-    vector<int> countSmaller(vector<int>& nums) {
-        oset<int> st;
-        vector<int> ans;
-        int n = nums.size();
-        for(int i=n-1; i>=0; --i){
-            ans.push_back(st.order_of_key(nums[i]));
-            st.insert(nums[i]);
-        }
-        reverse(ans.begin(), ans.end());
-        return ans;
-    }
-};
+// class Solution {
+// public:
+//     vector<int> countSmaller(vector<int>& nums) {
+//         oset<int> st;
+//         vector<int> ans;
+//         int n = nums.size();
+//         for(int i=n-1; i>=0; --i){
+//             ans.push_back(st.order_of_key(nums[i]));
+//             st.insert(nums[i]);
+//         }
+//         reverse(ans.begin(), ans.end());
+//         return ans;
+//     }
+// };
