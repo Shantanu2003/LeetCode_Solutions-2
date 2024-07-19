@@ -225,6 +225,7 @@
 ## Array
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1293-three-consecutive-odds) |
@@ -249,6 +250,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
@@ -303,4 +305,24 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2306-create-binary-tree-from-descriptions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
