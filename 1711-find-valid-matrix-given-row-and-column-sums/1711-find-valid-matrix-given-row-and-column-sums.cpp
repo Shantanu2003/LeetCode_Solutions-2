@@ -21,7 +21,7 @@ public:
     vector<vector<int>> restoreMatrix(vector<int>& rowSum, vector<int>& colSum) {
         int n = rowSum.size();
         int col = colSum.size();
-        vector<vector<int>>res(n, vector<int>(col));
+        vector<vector<int>>res(n, vector<int>(col,0));
 
         solve(rowSum,colSum,res,0,0);
 
