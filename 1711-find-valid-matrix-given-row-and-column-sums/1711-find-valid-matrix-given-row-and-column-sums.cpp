@@ -15,7 +15,7 @@ public:
         } else if (colSum[j] == 0 && j < colSum.size() - 1) {
             solve(rowSum, colSum, res, i, j + 1);
         } else {
-            solve(rowSum, colSum, res, i, j+1);
+            solve(rowSum, colSum, res, i+1, j);
         }
     }
     vector<vector<int>> restoreMatrix(vector<int>& rowSum, vector<int>& colSum) {
