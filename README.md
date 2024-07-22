@@ -200,6 +200,7 @@
 | [0726-number-of-atoms](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2379-maximum-total-importance-of-roads) |
+| [2502-sort-the-people](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
@@ -242,6 +243,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -250,6 +252,7 @@
 | [0726-number-of-atoms](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -291,6 +294,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1720-crawler-log-folder) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
