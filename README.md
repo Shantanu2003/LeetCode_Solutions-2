@@ -348,4 +348,8 @@
 | ------- |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
