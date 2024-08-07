@@ -280,11 +280,13 @@
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2450-minimum-replacements-to-sort-the-array) |
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -293,6 +295,7 @@
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1720-crawler-log-folder) |
