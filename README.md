@@ -232,6 +232,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
+| [0921-spiral-matrix-iii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0921-spiral-matrix-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1293-three-consecutive-odds) |
@@ -273,6 +274,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -346,6 +348,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2472-build-a-matrix-with-conditions) |
