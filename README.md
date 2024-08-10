@@ -232,6 +232,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
+| [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0921-spiral-matrix-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1207-delete-nodes-and-return-forest) |
@@ -253,6 +254,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1207-delete-nodes-and-return-forest) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -283,6 +285,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2450-minimum-replacements-to-sort-the-array) |
 ## Recursion
@@ -348,6 +351,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
