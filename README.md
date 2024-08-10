@@ -209,6 +209,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -216,6 +217,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -225,6 +227,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
@@ -234,6 +237,7 @@
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
 | [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1293-three-consecutive-odds) |
@@ -255,6 +259,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1207-delete-nodes-and-return-forest) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -353,6 +358,7 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2472-build-a-matrix-with-conditions) |
