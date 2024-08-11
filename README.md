@@ -213,12 +213,14 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Topological Sort
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 | [1293-three-consecutive-odds](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1803-average-waiting-time) |
@@ -360,6 +363,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2472-build-a-matrix-with-conditions) |
 ## Dynamic Programming
@@ -375,4 +379,8 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2163-kth-distinct-string-in-an-array) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
