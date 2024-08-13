@@ -235,6 +235,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0040-combination-sum-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
@@ -398,4 +399,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
