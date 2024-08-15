@@ -182,6 +182,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2379-maximum-total-importance-of-roads) |
@@ -240,6 +241,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
 | [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
