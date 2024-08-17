@@ -258,6 +258,7 @@
 | [1720-crawler-log-folder](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -385,6 +386,7 @@
 | [0062-unique-paths](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0062-unique-paths) |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Database
 |  |
 | ------- |
