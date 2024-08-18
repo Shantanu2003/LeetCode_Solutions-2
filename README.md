@@ -208,6 +208,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
@@ -268,6 +269,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -384,6 +387,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0264-ugly-number-ii) |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2067-maximum-number-of-points-with-cost) |
