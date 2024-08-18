@@ -240,6 +240,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0040-combination-sum-ii) |
+| [0063-unique-paths-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0063-unique-paths-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
@@ -376,6 +377,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0063-unique-paths-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0999-regions-cut-by-slashes) |
@@ -387,6 +389,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0063-unique-paths-ii) |
 | [0264-ugly-number-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0264-ugly-number-ii) |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
