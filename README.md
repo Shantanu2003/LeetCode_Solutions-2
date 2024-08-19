@@ -242,6 +242,7 @@
 | [0040-combination-sum-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0120-triangle) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
@@ -394,6 +395,7 @@
 | [0062-unique-paths](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0264-ugly-number-ii) |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
 | [0650-2-keys-keyboard](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0650-2-keys-keyboard) |
