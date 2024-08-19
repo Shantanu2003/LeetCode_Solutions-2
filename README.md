@@ -310,6 +310,7 @@
 | [0062-unique-paths](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -395,6 +396,7 @@
 | [0064-minimum-path-sum](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0064-minimum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0264-ugly-number-ii) |
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
+| [0650-2-keys-keyboard](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0650-2-keys-keyboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Database
