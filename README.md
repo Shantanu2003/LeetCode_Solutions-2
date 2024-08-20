@@ -254,6 +254,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -313,6 +314,7 @@
 | [0273-integer-to-english-words](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1240-stone-game-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2450-minimum-replacements-to-sort-the-array) |
 ## Recursion
@@ -400,6 +402,7 @@
 | [0377-combination-sum-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0377-combination-sum-iv) |
 | [0650-2-keys-keyboard](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0650-2-keys-keyboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
+| [1240-stone-game-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Database
 |  |
@@ -433,4 +436,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
