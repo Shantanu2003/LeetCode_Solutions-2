@@ -408,6 +408,7 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0183-customers-who-never-order) |
+| [1182-game-play-analysis-iv](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1182-game-play-analysis-iv) |
 ## Counting
 |  |
 | ------- |
