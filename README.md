@@ -191,6 +191,7 @@
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2379-maximum-total-importance-of-roads) |
@@ -210,6 +211,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-path-with-maximum-probability](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
@@ -258,6 +260,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1325-path-with-maximum-probability) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -461,4 +464,8 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0476-number-complement) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
