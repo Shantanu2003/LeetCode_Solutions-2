@@ -185,6 +185,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1659-get-the-maximum-score](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1659-get-the-maximum-score) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2379-maximum-total-importance-of-roads) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -268,6 +269,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1325-path-with-maximum-probability) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1659-get-the-maximum-score](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1659-get-the-maximum-score) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1720-crawler-log-folder) |
@@ -298,6 +300,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1659-get-the-maximum-score](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1659-get-the-maximum-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -424,6 +427,7 @@
 | [0650-2-keys-keyboard](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/0650-2-keys-keyboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1240-stone-game-ii) |
+| [1659-get-the-maximum-score](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/1659-get-the-maximum-score) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Shantanu2003/LeetCode_Solutions-2/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Database
 |  |
